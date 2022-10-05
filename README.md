@@ -7,7 +7,7 @@
 - Medium: https://medium.com/@oladavid3
 - E-mail: oladavid@telectronix.net or oladavid3@gmail.com
 
-I have many years of experience in various IT roles, from Networek technician (LAN/WAN), to support engineer/manager, project manager, data analyst, technical writer
+I have many years of experience in various IT roles, from Network technician (LAN/WAN), to support engineer/manager, project manager, data analyst, technical writer
 researcher, machine learning engineer.
 I have two MSc degrees, the first is in IT Systems and Technology from the University of Liverpool and the second is in Data Science from Nottingham trent University.
 I code in JavaScript, COBOL, Python, R, C# and a few related frameworks and libraries.
